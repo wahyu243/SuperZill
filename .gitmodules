@@ -1,0 +1,6 @@
+[submodule "SuperZill-1"]
+	path = SuperZill-1
+	url = https://github.com/wahyu243/SuperZill-1
+[submodule "SuperZill-2"]
+	path = SuperZill-2
+	url = https://github.com/wahyu243/SuperZill-2
