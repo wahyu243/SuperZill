@@ -1,5 +1,7 @@
 # SuperZill
 
+This is my submission for Building with Zilliqa: NFTs Beyond Art Hackathon. Generative Art Pieces
+
 SuperZill NFT is made with Generator Art.
 
 Consists of several parts that are categorized as very rare, rare, and original.
